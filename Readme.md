@@ -26,3 +26,5 @@ Each life when completing a level earns 500 points.
 Every lost shot deducts 5 points.
 
 Good luck and have fun!
+
+P.S.: A little demo video [here](https://www.youtube.com/watch?v=149854rjmfY)
